@@ -54,7 +54,7 @@ This project involves the analysis of single-cell RNA-seq data from **cardiac or
 
 For a full project description with embedded figures and results:
 
-📄 [`scRNA-seq-analysis-of-Cardiac-Organoid.docx`](scRNA-seq-analysis-of-Cardiac-Organoid.docx)
+📄 [`scRNA-seq-analysis-of-Cardiac-Organoid.pdf`](scRNA-seq-analysis-of-Cardiac-Organoid.pdf)
 
 For reproducible code and figures:
 

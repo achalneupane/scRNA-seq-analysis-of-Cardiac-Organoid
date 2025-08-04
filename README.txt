@@ -43,7 +43,7 @@ This project involves the analysis of single-cell RNA-seq data from **cardiac or
 | `ParseBiosciences-Pipeline.1.0.6p.zip` | Parse split-pipe v1.0.6p pipeline (archived) |
 | `scRNA_seq_workflow.sh` | Shell script for running the analysis pipeline |
 | `scRNA-seq-analysis-of-Cardiac-Organoid.rmd` | R Markdown file with detailed analysis code |
-| `scRNA-seq-analysis-of-Cardiac-Organoid.docx` | Full project summary with background, figures, and results |
+| `scRNA-seq-analysis-of-Cardiac-Organoid.pdf` | Full project summary with background, figures, and results |
 | `README.txt` | Legacy project description (see this `README.md` instead) |
 | `.gitignore` | Git ignore rules |
 | `scRNA-seq-analysis-of-Cardiac-Organoid.Rproj` | RStudio project file |
